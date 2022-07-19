@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @talyawkli
 - 👀 I’m interested in the outdoors, cs & language-learning!
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on psets and personal projects
+- 🌱 I’m currently learning python, OCaml
+- 💞️ I’m looking to collaborate on psets and projects
 - 📫 How to reach me: 201-565-7488, @talyawkli
 
 <!---
